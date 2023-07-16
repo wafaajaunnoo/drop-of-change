@@ -1,0 +1,47 @@
+C:\Users\BABS\source\repos\dropofchange\bin\Debug\dropofchange.exe.config
+C:\Users\BABS\source\repos\dropofchange\bin\Debug\dropofchange.exe
+C:\Users\BABS\source\repos\dropofchange\bin\Debug\dropofchange.pdb
+C:\Users\BABS\source\repos\dropofchange\bin\Debug\MaterialSkin.dll
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.csprojAssemblyReference.cache
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.Form1.resources
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.Properties.Resources.resources
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.csproj.GenerateResource.cache
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.csproj.CoreCompileInputs.cache
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.csproj.CopyComplete
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.exe
+C:\Users\BABS\source\repos\dropofchange\obj\Debug\dropofchange.pdb
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\dropofchange.exe.config
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\dropofchange.exe
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\dropofchange.pdb
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\MaterialSkin.dll
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.csprojAssemblyReference.cache
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.Properties.Resources.resources
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.csproj.GenerateResource.cache
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.csproj.CoreCompileInputs.cache
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.csproj.CopyComplete
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.exe
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.pdb
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\bin\Debug\dropofchange.exe.config
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\bin\Debug\dropofchange.exe
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\bin\Debug\dropofchange.pdb
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\bin\Debug\MaterialSkin.dll
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.csprojAssemblyReference.cache
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.admission.resources
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.Homepage.resources
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.login.resources
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.Properties.Resources.resources
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.records.resources
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.csproj.GenerateResource.cache
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.csproj.CoreCompileInputs.cache
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.csproj.CopyComplete
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.exe
+C:\Users\BABS\Desktop\Wafaa\Visual Programming\dropofchange\obj\Debug\dropofchange.pdb
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.admission.resources
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.Homepage.resources
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.login.resources
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\obj\Debug\dropofchange.records.resources
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\studentDetails.mdf
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\studentDetails_log.ldf
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\admission.resx
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\admission.cs
+C:\Users\tasne\Desktop\university\yr 2\visual programming\dropofchange\bin\Debug\admission.Designer.cs
